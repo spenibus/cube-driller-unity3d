@@ -1,0 +1,29 @@
+Cube Driller
+aka The horrible state of my unity learning
+Spenibus 2014
+
+CONTROLS
+- left click to select the highlighted column.
+- "space + mouse" or "right click + mouse" to move the camera.
+- mouse wheel to zoom.
+
+RULES
+- You are presented with a cube.
+- The cube is made of smaller chunks.
+- Some of these chunks are hollow.
+- There is always one or more columns
+  that are made entirely of hollow chunks.
+- The number of hollow chunks is indicated
+  on the side of the cube for each row.
+- The number of remaining columns is indicated
+  on the top left of the screen.
+- You must guess which columns are completely
+  hollow and click on them.
+- When all columns have been found,
+  you get points based on the diffculty level
+  and a new cube is created.
+- The game ends at the first mistake you make
+
+POINTS
+- A cube is worth 3 to the power of the difficulty.
+- That is 3^30 at difficulty 30.
