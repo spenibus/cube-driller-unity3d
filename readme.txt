@@ -1,4 +1,6 @@
 Cube Driller
+http://spenibus.net
+
 
 This is a small game built with unity3d
 Rules area available at "/Assets/misc/rules.txt"
