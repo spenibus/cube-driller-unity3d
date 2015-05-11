@@ -1,5 +1,7 @@
 Cube Driller
 http://spenibus.net
+https://github.com/spenibus/cube-driller-unity3d
+https://gitlab.com/spenibus/cube-driller-unity3d
 
 
 This is a small game built with unity3d
